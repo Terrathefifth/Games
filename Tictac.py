@@ -97,3 +97,4 @@ def gameloop():
         i += 1
         
 gameloop()
+#ADD BASIC BOT!
